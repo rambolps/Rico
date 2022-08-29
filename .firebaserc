@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rico-6e595": {
+      "hosting": {
+        "Rico": [
+          "rico-6e595"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rico-6e595"
+  }
+}
